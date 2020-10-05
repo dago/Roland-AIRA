@@ -18,6 +18,7 @@ LAST STEP gedrückt halten + SCATTER: 1 = Local Off / 2 = Local On / 3 = CTRL Mo
 
 Tutorials:
 - Roland TR-8 Ultimate Guide https://rolandcorp.com.au/blog/ultimate-guide-aira-tr-8
+- The Ultimate Guide to the AIRA TR-8 Rhythm Performer (enthält genaue Beschreibung der Effekte) https://rolandcorp.com.au/blog/ultimate-guide-aira-tr-8
 
 Roland TR-8: A Guide for Live and Studio Use
 - Introduction https://audiomunk.com/roland-tr-8-a-guide-for-live-and-studio-use-introduction/ 
